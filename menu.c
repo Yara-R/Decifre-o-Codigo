@@ -16,7 +16,7 @@ int mainMenu(){
       printf("███████████████████████████████████████████████████████\n\n");    
 
 
-      printf("Digite a opção desejada: \n\n1 - JOGAR \n2 - CLASSIFICAÇÃO \n0 - SAIR JOGO\n");
+      printf("Digite a opção desejada: \n\n1 - JOGAR \n2 - CLASSIFICAÇÃO \n3 - REGRAS DO JOGO \n0 - SAIR JOGO\n");
       printf("\n");
       scanf("%d", &option);
 
@@ -26,6 +26,9 @@ int mainMenu(){
               break;
           case 2: 
               mainRanking();
+              break;
+          case 3: 
+              regrasJogo();
               break;
           case 0: 
               printf("Obrigada por jogar!");
