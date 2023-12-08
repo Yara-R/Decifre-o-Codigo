@@ -8,10 +8,15 @@ A cada partida será gerada uma senha randômica de quatro dígitos onde o jogad
 A pontuação será dada pela quantidade de tentativas de jogadas para descobrir a senha correta. Quanto menor a quantidade tentativas para descobrir a senha, maior será sua classificação no ranking.
 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLU%C3%8DDO&color=BLUE&style=for-the-badge)
+
 
 # Tecnologias utilizadas
 * Linguagem de programação C
+* Lista Duplamente Encadeada
+* Insertion Sort
+
+
 
 # Colaboradores
 
